@@ -10,11 +10,6 @@ A simple and responsive To-Do List web application built with HTML, CSS, and Jav
 - 💾 Data persistence with localStorage
 - 📱 Responsive design for all devices
 
-
-## 📸 Screenshot
-
-![Screenshot]() 
-
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -26,4 +21,4 @@ A simple and responsive To-Do List web application built with HTML, CSS, and Jav
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list.git
+   git clone [https://github.com/encorecoding/TO-DO-LIST
